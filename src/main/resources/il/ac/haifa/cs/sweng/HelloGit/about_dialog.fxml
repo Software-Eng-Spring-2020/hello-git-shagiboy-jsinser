@@ -9,7 +9,7 @@
    <children>
       <Pane prefHeight="200.0" prefWidth="200.0">
          <children>
-                     <Label layoutX="65.0" layoutY="92.0" text="morsy biadsy \n saji assi" />
+                     <Label layoutX="65.0" layoutY="92.0" text="morsy biadsy \nsaji assi" />
          </children>
       </Pane>
    </children>
